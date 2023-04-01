@@ -7,7 +7,7 @@ Used fake gps app to simulate device movement.
 
 <p><video src='https://user-images.githubusercontent.com/40795940/229274091-ce87e36a-ad55-410b-9bd9-e64bad9ea1c1.mp4'></p>
 
-<h2>UI</h2>
+<h2>User Interface</h2>
 <h3>Login, Register</h3>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/40795940/229277789-7745233d-3877-4a92-b598-33fc80789aae.png" width="300" >
