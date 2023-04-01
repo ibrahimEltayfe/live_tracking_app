@@ -21,6 +21,7 @@ Used fake gps app to simulate device movement.
 </p>
 
 <h2>File Structure</h2>
+<pre>
 ```
 ├── config
 │   ├── app_routers.dart
@@ -256,3 +257,5 @@ Used fake gps app to simulate device movement.
 │   └── app_localizations_en.dart
 ├── firebase_options.dart
 └── main.dart```
+</pre>
+
