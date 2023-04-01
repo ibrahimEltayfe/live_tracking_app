@@ -8,19 +8,20 @@ Used fake gps app to simulate device movement.
 <p><video src='https://user-images.githubusercontent.com/40795940/229274091-ce87e36a-ad55-410b-9bd9-e64bad9ea1c1.mp4'></p>
 
 <h2>UI</h2>
-<h2>Login, Register</h2>
+<h3>Login, Register</h3>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/40795940/229277789-7745233d-3877-4a92-b598-33fc80789aae.png" width="300" >
   <img src="https://user-images.githubusercontent.com/40795940/229277794-615db38f-f9e8-41d1-a13d-c31d7e5d3759.png"width="300">
 </p>
 
+<h3>Tracker</h3>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/40795940/229274573-7dcabe66-effd-41a2-a613-b052d6cab936.png" width="300" >
   <img src="https://user-images.githubusercontent.com/40795940/229274583-b808015a-2343-4239-a1f0-615b61e4d3d2.png" width="300">
   <img src="https://user-images.githubusercontent.com/40795940/229274574-62b68dfe-6570-407e-aafd-1ac0cd0eb5c4.png" width="300" >
 </p>
 
-<h2>Client</h2>
+<h3>Client</h3>
 <p float="left">
   <img src="https://user-images.githubusercontent.com/40795940/229274577-2a3d5b80-2c49-44c6-b313-c8e24267b12b.png" width="300"> 
   <img src="https://user-images.githubusercontent.com/40795940/229274579-5b5aaa6b-e6aa-4700-8111-bd04206b9440.png" width="300">
