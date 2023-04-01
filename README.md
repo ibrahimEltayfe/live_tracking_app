@@ -21,7 +21,7 @@ Used fake gps app to simulate device movement.
 </p>
 
 <h2>File Structure</h2>
-```.
+```
 ├── config
 │   ├── app_routers.dart
 │   ├── app_themes.dart
