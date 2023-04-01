@@ -1,0 +1,104 @@
+{
+  "email": "البريد الإلكترونى",
+  "password": "كلمة السر",
+  "forgotPassword": "نسيت كلمة السر",
+  "enterYourEmail": "اكتب بريدك الإلكترونى",
+  "login": "دخول",
+  "register": "تسجيل",
+  "doNotHaveAnAccount": "لا تمتلك حساب؟",
+  "alreadyHaveAnAccount": "هل تمتلك حساب؟",
+  "or": "أو",
+  "resetPassword": "إعادة تعيين كلمة السر",
+  "verifyEmailMessage": "من فضلك إضغط على الرابط الذى تم إرساله إلى بريدك الإلكترونى للتفعيل",
+  "done": "تم",
+
+  "addSession": "إضافة جلسة",
+  "sessionPassword": "كلمة المرور",
+  "sessionName": "اسم الجلسة",
+  "intervals": "تحديث بيانات الموقع كل (بالثانية):",
+
+  "name": "الاسم",
+  "changePassword": "تغيير كلمة السر",
+  "editProfile": "تعديل الملف الشخصي",
+  "appSetting": "إعدادات التطبيق",
+  "about": "حول",
+  "logout": "تسجيل الخروج",
+
+  "trackingSessions" : "جلسات التتبع",
+
+  "unExpectedError" : "حدث خطأ, برجاء المحاولة مرة اخرى.",
+  "noInternetError":"لا يوجد انترنت",
+  "noUIDError":"انتهت صلاحية الجلسة, برجاء تسجيل الدخول",
+  "pickFileError": "حدث خطأ, لم نتمكن من جلب الملف",
+
+  "dioBadRequest": "حدث خطأ عند إرسال الطلب",
+  "dioUnAuthorized":"طلب غير مصرح به",
+  "dioForbidden": "السيرفر رفض الطلب, برجاء المحاولة مرة اخرى",
+  "dioRequestTimeout": "الطلب اخذ وقتا كثيرا, برجاء المحاولة مرة اخرى",
+  "dioInternalServerError": "هناك خطأ بالسيرفر, برجاء المحاولة مرة اخرى",
+  "dioNotFound": "الصفحة غير موجودة, برجاء المحاولة مرة اخرى",
+
+  "userDisabled": "هذا الحساب متوقف, برجاء مراسلتنا لمعرفة السبب.",
+  "userNotFound": "البريد الالكترونى غير موجود.",
+  "wrongPassword": "كلمة مرور غير صحيحة",
+  "invalidEmail": "البريد الالكترونى غير صالح",
+  "loginDefaultError":"حدث خطأ عند تسجيل الدخول, برجاء المحاولة مرة اخرى",
+
+  "weakPassword": "كلمة السر ليست قوية",
+  "emailAlreadyInUse": "البريد الإلكتروني قيد الاستخدام بالفعل من قبل حساب مختلف",
+  "registerDefaultError":"حدث خطأ عند التسجيل, برجاء المحاولة مرة اخرى",
+
+  "accountExistsWithDifferentCredential": "الحساب موجود ببيانات مختلفة",
+  "invalidCredential": "البيانات المتلقاة غير صحيحة أو منتهية الصلاحية",
+  "operationNotAllowed": "العملية غير مسموح بها",
+  "invalidVerificationCode": "رمز التحقق غير صالح.",
+  "invalidVerificationId": "رمز التحقق من البيانات غير صالح",
+  "credentialDefaultError": "حدث خطأ, برجاء المحاولة مرة اخرى",
+
+  "expiredActionCode": "انتهت صلاحية رمز إعادة تعيين كلمة المرور",
+  "invalidActionCode": "رمز إعادة تعيين كلمة المرور غير صالح.",
+  "userDisabledResetPassword": "البريد الالكترونى التابع لهذا الرمز متوقف.",
+  "userNotFoundResetPassword": "لا يوجد مستخدم مطابق لرمز إعادة تعيين كلمة المرور.",
+  "resetPasswordDefaultError":"خطأ عند إعادة تعيين كلمة المرور الخاصة بك .. يرجى المحاولة مرة أخرى",
+  "errorUserNotFound": "لا يوجد مستخدم مطابق لعنوان البريد الإلكتروني المحدد.",
+
+  "emailIsEmptyError" : "من فضلك ادخل البريد الإلكترونى",
+  "passwordIsEmptyError" : "من فضلك ادخل كلمة السر",
+  "nameIsEmptyError" : "من فضلك ادخل اسمك",
+  "fieldIsEmptyError" : "هذا الحقل مطلوب",
+  "passwordLengthError" : "من فضلك ادخل على الأقل {length} أرقام أو حروف",
+  "@passwordLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+  "nameLengthError" : "هذا الحقل يجب أن لا يتعدى {length} حرف",
+  "@nameLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+
+  "sessionPasswordLengthError" : "من فضلك ادخل على الأقل {length} أرقام أو حروف",
+  "@sessionPasswordLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+  "sessionNameLengthError" : "هذا الحقل يجب أن لا يتعدى {length} حرف",
+  "@sessionNameLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+  "sessionPasswordIsEmptyError" : "من فضلك ادخل كلمة سر للجلسة",
+  "sessionNameIsEmptyError" : "من فضلك ادخل اسم للجلسة",
+  "sessionNameIsUsedError" : "هذا الاسم مستخدم, من فضلك ادخل اسم اخر",
+
+  "emailNotVerified" : "البريد الإلكترونى غير مفعل",
+  "sendingVerificationEmail" : "يتم إرسال رابط التفعيل لبريدك الإلكترونى.. ",
+
+  "resetPasswordLinkSent" : "تم إرسال رابط إعادة تعيين كلمة المرور الخاصة بك الى بريدك الإلكترونى",
+
+  "noDataError" : "لا توجد معلومات حالية."
+}

@@ -1,0 +1,106 @@
+{
+  "email":"Email",
+  "password":"Password",
+  "forgotPassword":"Forgot Password",
+  "enterYourEmail": "Enter you email",
+  "login":"Login",
+  "register":"Register",
+  "doNotHaveAnAccount": "Do not have an account? ",
+  "alreadyHaveAnAccount": "Do you have an account? ",
+  "or":"OR",
+  "resetPassword":"Reset Your Password",
+  "verifyEmailMessage":"Please click on the link sent to your email to verify.",
+  "done":"Done",
+
+  "addSession": "Add Session",
+  "sessionPassword": "Session Password",
+  "sessionName": "Session Name",
+  "intervals": "Update Location Every(in seconds):",
+
+
+  "name":"Name",
+  "changePassword":"Change Password",
+  "editProfile":"Edit Profile",
+  "appSetting":"App Setting",
+  "about":"About",
+  "logout":"Logout",
+
+  "trackingSessions" : "Tracking Sessions",
+
+  "unExpectedError" : "something went wrong, please try again later.",
+  "noInternetError":"no internet",
+  "noUIDError":"session ended, please login.",
+  "pickFileError": "failed picking a file.",
+
+  "dioBadRequest": "bad request, Try again later",
+  "dioUnAuthorized":"user is un authorized",
+  "dioForbidden": "server rejected the request, Try again later",
+  "dioRequestTimeout": "time out, please try again later",
+  "dioInternalServerError": "server error, please try again later",
+  "dioNotFound": "page not found, please try again later",
+
+  "userDisabled": "This user has been disabled. contact support for help.",
+  "userNotFound": "Email is not found.",
+  "wrongPassword": "Incorrect password, please try again.",
+  "loginDefaultError":"Login Error.. please try again",
+
+  "weakPassword": "the password is not strong enough.",
+  "invalidEmail": "the email address is malformed.",
+  "emailAlreadyInUse": "the email is already in use by a different account.",
+  "registerDefaultError":"Register Error.. please try again",
+
+  "accountExistsWithDifferentCredential": "Account exists with different credentials.",
+  "invalidCredential": "The credential received is malformed or has expired.",
+  "operationNotAllowed": "Operation is not allowed. Please contact support.",
+  "invalidVerificationCode": "The credential verification code received is invalid.",
+  "invalidVerificationId": "The credential verification ID received is invalid.",
+  "credentialDefaultError": "something went wrong.. please try again",
+
+  "expiredActionCode": "the password reset code has expired.",
+  "invalidActionCode": "the password reset code is invalid.",
+  "userDisabledResetPassword": "the user corresponding to the given password reset code has been disabled.",
+  "userNotFoundResetPassword": "there is no user corresponding to the password reset code.",
+  "resetPasswordDefaultError":"Error when resetting your password.. please try again",
+  "errorUserNotFound": "there is no user corresponding to the given email address.",
+
+  "emailIsEmptyError" : "please enter your email",
+  "passwordIsEmptyError" : "please enter your password",
+  "nameIsEmptyError" : "please enter your name",
+  "fieldIsEmptyError" : "this field is required",
+  "passwordLengthError" : "please enter at least {length} letters",
+  "@passwordLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+  "nameLengthError" : "this field can not exceed {length} letters",
+  "@nameLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+
+  "sessionPasswordLengthError" : "please enter at least {length} letters",
+  "@sessionPasswordLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+  "sessionNameLengthError" : "this field can not exceed {length} letters",
+  "@sessionNameLengthError" : {
+    "placeholders" : {
+      "length" : {}
+    }
+  },
+
+  "sessionPasswordIsEmptyError" : "please enter a session password",
+  "sessionNameIsEmptyError" : "please enter a session name",
+  "sessionNameIsUsedError" : "this name is used, please try another one.",
+
+  "emailNotVerified" : "Email is not verified",
+  "sendingVerificationEmail" : "Sending the verification link to your email..",
+
+  "resetPasswordLinkSent" : "Your reset password link sent to your account.",
+
+  "noDataError" : "No Data Found."
+}
