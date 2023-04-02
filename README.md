@@ -1,5 +1,5 @@
 # Live Tracking App
-Its an app to track devices, you can make sessions so the clients can join your sessions and start tracking them.
+It`s an app to track devices, you can make sessions so the clients can join your sessions and start tracking them.
 Tracker can track and manage more than one session as well as clients can subscribe to more than one session.
 
 <h2>Tracking Preview</h2>
